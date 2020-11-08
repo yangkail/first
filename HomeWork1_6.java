@@ -12,3 +12,4 @@ public class HomeWork1_6 {
 	}
 
 }ㄎㄎㄎ
+ㄑㄑㄑ
